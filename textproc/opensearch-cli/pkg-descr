@@ -1,0 +1,6 @@
+OpenSearch Command Line Interface (opensearch-cli) is an open source tool that
+lets you manage your OpenSearch cluster from the command line and automate
+tasks. In addition to standard OpenSearch operations, you can configure,
+manage, and use the plugins, such as Alerting, Anomaly Detection, and SQL
+
+WWW: https://github.com/opensearch-project/opensearch-cli

@@ -9,6 +9,8 @@ COMMENT=	Command line interface for OpenSearch
 LICENSE=	APACHE20
 LICENSE_FILE=	${WRKSRC}/LICENSE
 
+RUN_DEPENDS=	curl>0:ftp/curl
+
 USES=	go:modules gmake
 
 USE_GITHUB=	yes

@@ -15,7 +15,7 @@ USE_GITHUB=	yes
 GH_TUPLE=	opensearch-project:${PORTNAME}:v${DISTVERSION}
 GH_TUPLE+=	\
 		VividCortex:ewma:v1.1.1:vividcortex_ewma/vendor/github.com/VividCortex/ewma \
-		cheggaaa:pb:v3.0.5:cheggaaa_pb/vendor/github.com/cheggaaa/pb/v3 \
+		cheggaaa:pb:v3.0.5:cheggaaa_pb/vendor/github.com/cheggaaa/pb \
 		davecgh:go-spew:v1.1.1:davecgh_go_spew/vendor/github.com/davecgh/go-spew \
 		fatih:color:v1.7.0:fatih_color/vendor/github.com/fatih/color \
 		go-yaml:yaml:eeeca48fe776:go_yaml_yaml/vendor/gopkg.in/yaml.v3 \
